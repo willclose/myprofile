@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Styling for top menu bar */
+.menuBar {
+    background-color: darkslategrey;
+    overflow: hidden;
+    font-size: small;
+    padding-left: 5%;
+    color: white;
+    
+}
+
+/* Sets Main Page Content Padding */
+.pageContent {
+    padding: 0% 20% 0% 20%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
